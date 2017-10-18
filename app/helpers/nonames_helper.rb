@@ -1,0 +1,2 @@
+module NonamesHelper
+end
